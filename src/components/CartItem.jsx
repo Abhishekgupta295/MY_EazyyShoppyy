@@ -2,7 +2,7 @@ import React from 'react'
 // import {FcDeleteDatabase} from "react-icons/fc"
 import { MdDelete } from "react-icons/md";
 import { useDispatch } from "react-redux";
-import { remove } from "../redux/Slices/CartSlice";
+import { remove } from "../Redux/Slices/CartSlice";
 import { toast } from "react-hot-toast";
 
 
