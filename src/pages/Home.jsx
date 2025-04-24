@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { useState } from 'react'
-import Product from '../Components/Product'
-import Spinner from '../Components/Spinner'
+import Product from '../components/Product'
+import Spinner from '../components/Spinner'
 
 const Home = () => {
 
