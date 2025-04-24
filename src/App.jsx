@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
-import Navbar from './Components/Navbar'
+import Navbar from './components/Navbar'
 import Home from './pages/Home'
 import Cart from './pages/Cart'
 
