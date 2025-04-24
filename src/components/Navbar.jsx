@@ -2,7 +2,7 @@ import React from 'react'
 import {FaShoppingCart} from "react-icons/fa"
 import { NavLink } from 'react-router-dom'
 import { useSelector } from 'react-redux'
-import logo from './assets/logo.png';
+import logo from './public/logo.png'
 
 
 const Navbar = () => {
